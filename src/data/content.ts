@@ -36,6 +36,15 @@ export const content = {
           repoUrl: "https://github.com/alearenass090/mi-manga-dinamita",
           badge: "En vivo",
         },
+        {
+          title: "Libros Rivendell",
+          description:
+            "Librería digital con catálogo de 1500+ libros en español, carrusel interactivo, buscador, carrito de compras con integración a WhatsApp y diseño responsive.",
+          stack: ["React", "TypeScript", "Tailwind", "Vite"],
+          liveUrl: "https://libros-arg.netlify.app",
+          repoUrl: "https://github.com/alearenass090/libros-arg",
+          badge: "En vivo",
+        },
       ],
     },
     skills: {
@@ -108,6 +117,15 @@ export const content = {
           stack: ["Angular", "RxJS", "TypeScript", "Capacitor"], 
           liveUrl: "https://mimangadinamita.netlify.app",
           repoUrl: "https://github.com/alearenass090/mi-manga-dinamita",
+          badge: "Live",
+        },
+        {
+          title: "Libros Rivendell",
+          description:
+            "Digital bookstore with 1500+ Spanish books catalog, interactive carousel, search engine, shopping cart with WhatsApp integration and responsive design.",
+          stack: ["React", "TypeScript", "Tailwind", "Vite"],
+          liveUrl: "https://libros-arg.netlify.app",
+          repoUrl: "https://github.com/alearenass090/libros-arg",
           badge: "Live",
         },
       ],
