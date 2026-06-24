@@ -21,7 +21,7 @@ export const content = {
         {
           title: "PRIA",
           description:
-            "Empresa especializada en soluciones digitales para restaurantes.",
+            "Empresa especializada en soluciones digitales para empresas minoristas.",
           stack: ["React", "Node.js"],
           liveUrl: "https://tecnopria.netlify.app",
           repoUrl: "https://github.com/alearenass090/PRIA",
@@ -41,7 +41,7 @@ export const content = {
           description:
             "Librería digital con catálogo de 1500+ libros en español, carrusel interactivo, buscador, carrito de compras con integración a WhatsApp y diseño responsive.",
           stack: ["React", "TypeScript", "Tailwind", "Vite"],
-          liveUrl: "https://libros-arg.netlify.app",
+          liveUrl: "https://libros-rivendell.netlify.app/",
           repoUrl: "https://github.com/alearenass090/libros-arg",
           badge: "En vivo",
         },
@@ -104,7 +104,7 @@ export const content = {
         {
           title: "PRIA",
           description:
-            "SaaS platform for restaurants. Modular architecture with landing page, contact form, and authentication system.",
+            "SaaS platform. Modular architecture with landing page, contact form, and authentication system.",
           stack: ["React", "Node.js", "Supabase"],
           liveUrl: "https://tecnopria.netlify.app",
           repoUrl: "https://github.com/alearenass090/PRIA",
@@ -124,7 +124,7 @@ export const content = {
           description:
             "Digital bookstore with 1500+ Spanish books catalog, interactive carousel, search engine, shopping cart with WhatsApp integration and responsive design.",
           stack: ["React", "TypeScript", "Tailwind", "Vite"],
-          liveUrl: "https://libros-arg.netlify.app",
+          liveUrl: "https://libros-rivendell.netlify.app/",
           repoUrl: "https://github.com/alearenass090/libros-arg",
           badge: "Live",
         },
